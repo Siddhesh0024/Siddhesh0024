@@ -22,4 +22,4 @@ I build intelligent systems — from RAG pipelines and semantic search engines t
 | [Visual Assistance](https://github.com/Siddhesh0024/Visual-Assistance-for-Visually-Impaired-Scene-Captioning-) | Real-time scene captioning for visually impaired using MS-COCO |
 
 ## 📊 GitHub Stats
-![Siddhesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siddhesh0024&show_icons=true&theme=dark)
+![Siddhesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siddhesh0024&show_icons=true&theme=dark&hide_border=true&count_private=true)
